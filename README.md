@@ -1,11 +1,28 @@
 # MyFirstPortfolio 게임 웹페이지
 > 게임 프로젝트와 웹 서버가 연동되는 프로젝트입니다.
+> 각 프로젝트별에 대한 설명은 다른 저장소에서 설명할 것이며
+> 연동되는 부분은 마지막에 설명하겠습니다.
 이미지 사용
 ## 목차
+1. [웹 프로젝트 파트](#웹-프로젝트)
+2. [게임 프로젝트 파트](#게임-프로젝트)
+3. [게임과 웹이 연동되는 부분](#게임과-웹이-연동되는-부분)
 
 ## 웹 프로젝트
+> 기본적인 웹페이지를 구현하였으며
+> 게임으로부터 http 요청을 받아
+> 정보를 처리해주는 역할또한 하고 있다.
 
+
+[웹 프로젝트 Repository](https://github.com/fpsgo7/GameWebPageProject)  
 ## 게임 프로젝트
+> 탑뷰 시점 슈팅게임으로 게임만 진행되는 것이아닌
+> 로그인과 점수 업데이트 기능을 웹 에 요청하는 방식으로
+> 하였다.
+1. 웹 연동을 위한 유니티 프로젝트 : [유니티 웹 연동 프로젝트 Repository](https://github.com/fpsgo7/GameWebPageProject_NoneGamePart/tree/main/SimpleGame/Assets)
 
+
+2. 게임 프로젝트와 웹 연동 유니티 프로젝트 결합 :
+  [게임 프로젝트 Repository](https://github.com/fpsgo7/GameWebPageProject_GamePartSingle)
 ## 게임과 웹이 연동되는 부분
 
