@@ -19,7 +19,7 @@
 > 탑뷰 시점 슈팅게임으로 게임만 진행되는 것이아닌
 > 로그인과 점수 업데이트 기능을 웹 에 요청하는 방식으로
 > 하였다.
-1. 웹 연동을 위한 유니티 프로젝트 : [유니티 웹 연동 프로젝트 Repository](https://github.com/fpsgo7/GameWebPageProject_NoneGamePart/tree/main/SimpleGame/Assets)
+1. 웹 연동을 위한 유니티 프로젝트 : [유니티 웹 연동 프로젝트 Repository](https://github.com/fpsgo7/GameWebPageProject_NoneGamePart)
 
 
 2. 게임 프로젝트와 웹 연동 유니티 프로젝트 결합 :
