@@ -24,6 +24,17 @@
 
 2. 게임 프로젝트와 웹 연동 유니티 프로젝트 결합 :
   [게임 프로젝트 Repository](https://github.com/fpsgo7/GameWebPageProject_GamePartSingle)
+## 개발 내용
+### 로그인 과정
+[Oauth2 로그인](https://enchanting-nightshade-057.notion.site/Oauth2-4a68b296430f4a3fa4fd22ebcd654726)
+
+### 페이징 방법
+
+### 유니티의 http 요청
+
+### 유니티의 구글 스프레드 시트를 통한 채팅 활용
+
+
 ## 웹페이지 접속과 게임 다운로드
 ### 웹페이지 접속 경로
 [로그인 화면](http://13.124.66.204:8080/login
