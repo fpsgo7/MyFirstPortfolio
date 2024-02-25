@@ -31,8 +31,6 @@
 [랭킹과 페이징](https://enchanting-nightshade-057.notion.site/27796d7b9ed14284940ccd57230aed7f?pvs=4)
 ### 유니티의 http 요청
 [유니티의 http 요청](https://enchanting-nightshade-057.notion.site/a1304ef12e164ac0a6fd88dee8bc9e6b?pvs=4)
-### 유니티의 구글 스프레드 시트를 통한 채팅 활용
-[유니티 구글 스프레드 시트 활용 채팅](https://enchanting-nightshade-057.notion.site/c02ab479121a48f187da4f5d7cacf135?pvs=4)
 
 ## 웹페이지 접속과 게임 다운로드
 ### 웹페이지 접속 경로
