@@ -19,7 +19,7 @@
 > 탑뷰 시점 슈팅게임으로 게임만 진행되는 것이아닌
 > 로그인과 점수 업데이트 기능을 웹 에 요청하는 방식으로
 > 하였다.
-1. 웹 연동을 위한 유니티 프로젝트 : [유니티 웹 연동 프로젝트 Repository](https://github.com/fpsgo7/GameWebPageProject_NoneGamePart)
+1. 웹 연동을 위한 사전연습 유니티 프로젝트 : [유니티 웹 연동 프로젝트 Repository](https://github.com/fpsgo7/GameWebPageProject_NoneGamePart)
 
 
 2. 게임 프로젝트와 웹 연동 유니티 프로젝트 결합 :
@@ -31,6 +31,8 @@
 [랭킹과 페이징](https://enchanting-nightshade-057.notion.site/27796d7b9ed14284940ccd57230aed7f?pvs=4)
 ### 유니티의 http 요청
 [유니티의 http 요청](https://enchanting-nightshade-057.notion.site/a1304ef12e164ac0a6fd88dee8bc9e6b?pvs=4)
+### 구글 스프레드 시트를 이용한 채팅
+[구글 스프레드 시트를 활용한 채팅](https://enchanting-nightshade-057.notion.site/c02ab479121a48f187da4f5d7cacf135?pvs=4)
 
 ## 웹페이지 접속과 게임 다운로드
 ### 웹페이지 접속 경로
@@ -38,7 +40,8 @@
 )
 
 ### 게임 다운받기 
-
+[모바일 버전 게임](https://drive.google.com/file/d/1nkv374ojaVXYeqas9SlpDXQnBzTB8FAV/view?usp=drive_link)
+[PC 버전 게임](https://drive.google.com/file/d/1xRQ-_ATfpT2Qnw5hL5Yv0ndLpifQo6fW/view?usp=drive_link)
 #### 조작 방법
 > 컴퓨터 버전
 - 이동키 : wasd
