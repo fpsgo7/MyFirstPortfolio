@@ -38,7 +38,7 @@
 ### 웹페이지 접속 경로
 [로그인 화면](http://13.124.66.204:8080/login
 )
-
+[게시판 화면](http://13.124.66.204:8080/view/freeBoard)
 ### 게임 다운받기 
 [모바일 버전 게임](https://drive.google.com/file/d/1nkv374ojaVXYeqas9SlpDXQnBzTB8FAV/view?usp=drive_link)
 [PC 버전 게임](https://drive.google.com/file/d/1xRQ-_ATfpT2Qnw5hL5Yv0ndLpifQo6fW/view?usp=drive_link)
